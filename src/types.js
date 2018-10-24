@@ -1,0 +1,3 @@
+export const GET_ALL_AUTHORS = 'GET_ALL_AUTHORS';
+export const SAVE_AUTHOR = 'SAVE_AUTHOR';
+export const DELETE_AUTHORS = 'DELETE_AUTHORS';
